@@ -1,10 +1,11 @@
-### Olá! Eu sou o Rafael Souza 👋
+### Olá! 
+Sejam Bem vindos👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-souza-368a1758/)
 
 
 ![faellbf GitHub stats](https://github-readme-stats.vercel.app/api?username=faellbf&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faellbf)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que possuo conhecimentos
 
